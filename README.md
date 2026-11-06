@@ -1,5 +1,7 @@
 # Swiss case law: Fribourg (cantonal courts and bodies)
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of Fribourg, Switzerland, which global-law reads at `switzerland/fribourg/caselaw/`.
+
 Every published decision of these courts and bodies as a git history: one file per decision, one commit per decision,
 dated the day it was decided. 14,853 decisions from 2009-12-11 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `switzerland/fribourg/caselaw`.
